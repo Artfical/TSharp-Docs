@@ -81,4 +81,4 @@ Bu dokümantasyon ve beraberindeki tüm kod kaynakları **GNU Affero General Pub
 Bu lisans, özgür yazılımın gücünü internet üzerinden sunulan servislerde de korumayı amaçlar. Yazılımı veya dokümantasyonu geliştirerek kullanan tüm taraflar, bu değişiklikleri topluluğa geri kazandırmakla yükümlüdür.
 
 ---
-**T-Sharp: Teknolojiyi kendi dilinde anlayanların, geleceği kendi elleriyle inşa etmesi için.**
+**T-Sharp: Teknolojiyi kendi dilinde anlayanların, geleceği kendi elleriyle inşa etmesi için yapıldı.**
